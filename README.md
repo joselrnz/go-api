@@ -118,16 +118,4 @@ docker run -p 8080:8080 crypto-etl-api
 
 ---
 
-## 👨‍💻 Contributing
-
-Want to improve this project? Follow these steps:
-
-1. **Fork the repository** on GitHub.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Commit your changes** (`git commit -m "Added new feature"`).
-4. **Push to your fork** (`git push origin feature-branch`).
-5. **Submit a pull request**.
-
----
-
 
